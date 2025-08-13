@@ -75,5 +75,5 @@ This project is licensed under the MIT License.
 
 ---
 
-**Author:** Dhvanil Sanjay Shah  
 **GitHub:** [Kinsu1212](https://github.com/Kinsu1212)  
+
